@@ -647,7 +647,7 @@ import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { auth } from '../../firebase/config';
 import { supabase } from '../../firebase/supabaseClient';
-import '../../components/NewUsers/NewUsers.css';
+// import '../../components/NewUsers/NewUsers.css';
 
 // Mock translations
 const translations = {
